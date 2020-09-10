@@ -1,0 +1,11 @@
+<module>
+	<type>extension</type>
+        <name>Ringover</name>
+        <label>Ringover</label>
+	<parent>Tools</parent>
+        <version>1.0</version>
+        <dependencies>
+                <vtiger_version>7.1.0</vtiger_version>
+                <vtiger_max_version>7.*</vtiger_max_version>
+        </dependencies>
+</module>
